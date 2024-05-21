@@ -164,5 +164,5 @@ https://a.wpzllq.top
 
 4. **启动服务**
    - 使用命令：`pnpm start` 来启动项目，它将默认在 9520 端口监听。
-   - <img width="1229" alt="image" src="https://gya.wpzllq.cn/GitHub3.4/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20240415130344.png">
+   - <img width="1229" alt="image" src="https://a.wpzllq.top/pengzi.jpg">
 
