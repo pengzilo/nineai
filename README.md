@@ -1,4 +1,4 @@
-# nineai3.4-3.5魔改版
+# nineai魔改版
 nineAI 魔改版：基于 NineAI 娱乐使用 AI Web 应用（免授权，无后门，支持快速部署）<br>
 商用建议购买官方的SparkAi Nav
 ​<br>
